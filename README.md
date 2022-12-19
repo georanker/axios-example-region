@@ -5,6 +5,7 @@ This repository is an example implementation of the Georanker HV API using the R
 ## Requirments
 - Axios
 - NPM
+- Parcel
 
 ### How to run from docker-compose command
 - Extract in an empty folder
